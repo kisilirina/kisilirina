@@ -2,7 +2,7 @@
 - 🔭 Я в поиске интересных предложений
 - 🌱 Изучаю React JS, Redux, Redux-Saga, Node JS, Express.js.
 - 📫 Моя почта: kisilirina@ya.ru
-- 😄 Мой телеграмм: @kisilira
+- 😄 Мой телеграмм: http://t.me/kisilira
 
 
 ![CodeWars](https://www.codewars.com/users/kisilirina/badges/large)
